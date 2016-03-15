@@ -80,6 +80,16 @@
     "operation" : "gotoPage",
     "pageName" : "Main"
   },
+  "goToPage_Page" : {
+    "_id" : "wm-goToPage_Page-wm.NavigationVariable-1458036445164",
+    "name" : "goToPage_Page",
+    "owner" : "App",
+    "category" : "wm.NavigationVariable",
+    "dataBinding" : [ ],
+    "operation" : "gotoPage",
+    "pageName" : "Page",
+    "pageTransitions" : "none"
+  },
   "supportedLocale" : {
     "_id" : "wm-wm.Variable1402640443182",
     "name" : "supportedLocale",
